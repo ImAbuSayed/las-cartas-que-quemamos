@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/las-cartas-que-quemamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Las cartas que quemamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-cartas-que-quemamos/) |
+| **Get License** | [Music Rights & Licensing for Las cartas que quemamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-cartas-que-quemamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, ya no pienses en lo que dejamos,
+> El humo en el aire y la copa que llenamos.
+> Las cartas que quemamos ya no van a hablar,
+> Solo quiero tu cuerpo, no hay tiempo pa' pensar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
