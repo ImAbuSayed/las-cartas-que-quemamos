@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Las cartas que quemamos
+
+This log tracks the cryptographic history and versioning for the song **Las cartas que quemamos** (las-cartas-que-quemamos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:27:43.345444 | `v1` | `79cbc9c61e8e00da327ec972ee2144c2ae2750c38db02bd2acd0f9c0f719de96` | `1b6b8d1b9d00525eec0a80641e0bf60fa98b8db374ef47ea265c802557a9cb36` | `2026-06-14_las-cartas-que-quemamos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

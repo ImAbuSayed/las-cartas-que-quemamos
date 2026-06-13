@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/las-cartas-que-quemamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Las cartas que quemamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-cartas-que-quemamos/) |
+| **Get License** | [Secure Licensing Rights for Las cartas que quemamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-cartas-que-quemamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `79cbc9c61e8e00da327ec972ee2144c2ae2750c38db02bd2acd0f9c0f719de96` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
